@@ -1,5 +1,5 @@
 /*
- * Author: Dakota Kingham
+ * Author: Dakota Kingham and Clancey Gill
  * Date: Jan 26 2018
  * This program prints my name.
  */
@@ -8,7 +8,7 @@
  
  int main(int argc, char **argv) {
  
-   printf("Dakota Kingham\n");
+   printf("Dakota Kingham and Clancey Gill\n");
  
  return 0;
  
